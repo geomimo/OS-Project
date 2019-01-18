@@ -1,0 +1,10 @@
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\bin\Debug\ProjectOS.exe.config
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\bin\Debug\ProjectOS.exe
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\bin\Debug\ProjectOS.pdb
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.csprojAssemblyReference.cache
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.Form1.resources
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.Properties.Resources.resources
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.csproj.GenerateResource.cache
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.exe
+C:\Users\GeoMimo\source\repos\ProjectOS\ProjectOS\obj\Debug\ProjectOS.pdb
